@@ -29,6 +29,7 @@ end
 local interrupts = {
   ["ROGUE"] = {
     ["Kick"] = BS["Kick"];
+    ["Deadly Throw"] = BS["Deadly Throw"];
   },
   ["WARRIOR"] = {
     ["Shield Bash"] = BS["Shield Bash"];
